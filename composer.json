@@ -2,6 +2,7 @@
     "name": "hanson/weibot",
     "type": "library",
     "description": "微博模拟登录",
+    "license": "MIT",
     "keywords": [
         "微博",
         "新浪",
